@@ -18,7 +18,7 @@
 
 1. Clone the repository or download the script:
    ```bash
-   git clone https://github.com/yourusername/AutoProxyConfig.git
+   git clone https://github.com/itskhawer/AutoProxyConfig.git
    cd AutoProxyConfig
    ```
 
