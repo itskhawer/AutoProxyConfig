@@ -1,3 +1,3 @@
 @echo off
-python C:\Users\DELL\set_proxy.py
+python set_proxy.py
 pause
