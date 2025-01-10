@@ -69,7 +69,7 @@ def set_proxy(enable, proxy_address, bypass_list="localhost;127.0.0.1"):
 
                 # Set the bypass list
                 winreg.SetValueEx(reg_key, "ProxyOverride", 0, winreg.REG_SZ, bypass_list)
-
+        print(proxy_address)
         print("Proxy settings updated successfully.")
         return True
     except Exception as e:
